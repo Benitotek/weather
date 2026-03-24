@@ -1,0 +1,831 @@
+{
+    "cnt": 20,
+    "list": [
+        {
+            "coord": {
+                "lon": 23.7162,
+                "lat": 37.9795
+            },
+            "sys": {
+                "country": "GR",
+                "timezone": 7200,
+                "sunrise": 1734500160,
+                "sunset": 1734534466
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "peu nuageux",
+                    "icon": "02d"
+                }
+            ],
+            "main": {
+                "temp": 17.4,
+                "feels_like": 16.79,
+                "temp_min": 16.17,
+                "temp_max": 19.03,
+                "pressure": 1024,
+                "sea_level": 1024,
+                "grnd_level": 999,
+                "humidity": 61
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.13,
+                "deg": 126
+            },
+            "clouds": {
+                "all": 20
+            },
+            "dt": 1734527348,
+            "id": 264371,
+            "name": "Athens"
+        },
+        {
+            "coord": {
+                "lon": 13.4105,
+                "lat": 52.5244
+            },
+            "sys": {
+                "country": "DE",
+                "timezone": 3600,
+                "sunrise": 1734506006,
+                "sunset": 1734533568
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "nuageux",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 9.71,
+                "feels_like": 5.96,
+                "temp_min": 8.88,
+                "temp_max": 10.55,
+                "pressure": 1012,
+                "sea_level": 1012,
+                "grnd_level": 1006,
+                "humidity": 79
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 9.39,
+                "deg": 205
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1734527668,
+            "id": 2950159,
+            "name": "Berlin"
+        },
+        {
+            "coord": {
+                "lon": 17.1067,
+                "lat": 48.1482
+            },
+            "sys": {
+                "country": "SK",
+                "timezone": 3600,
+                "sunrise": 1734503863,
+                "sunset": 1734533936
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "partiellement nuageux",
+                    "icon": "03d"
+                }
+            ],
+            "main": {
+                "temp": 7.62,
+                "feels_like": 6.37,
+                "temp_min": 6.81,
+                "temp_max": 8.68,
+                "pressure": 1023,
+                "sea_level": 1023,
+                "grnd_level": 1001,
+                "humidity": 85
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.06,
+                "deg": 20
+            },
+            "clouds": {
+                "all": 40
+            },
+            "dt": 1734527897,
+            "id": 3060972,
+            "name": "Bratislava"
+        },
+        {
+            "coord": {
+                "lon": 4.3488,
+                "lat": 50.8504
+            },
+            "sys": {
+                "country": "BE",
+                "timezone": 3600,
+                "sunrise": 1734507666,
+                "sunset": 1734536259
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "nuageux",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 12.6,
+                "feels_like": 12.06,
+                "temp_min": 11.81,
+                "temp_max": 13.26,
+                "pressure": 1013,
+                "sea_level": 1013,
+                "grnd_level": 1006,
+                "humidity": 82
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 9.26,
+                "deg": 220
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1734527764,
+            "id": 2800866,
+            "name": "Brussels"
+        },
+        {
+            "coord": {
+                "lon": 19.0399,
+                "lat": 47.498
+            },
+            "sys": {
+                "country": "HU",
+                "timezone": 3600,
+                "sunrise": 1734503236,
+                "sunset": 1734533636
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "ciel dégagé",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 9.3,
+                "feels_like": 7.95,
+                "temp_min": 8.8,
+                "temp_max": 9.45,
+                "pressure": 1024,
+                "sea_level": 1024,
+                "grnd_level": 1002,
+                "humidity": 75
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.57,
+                "deg": 190
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1734527896,
+            "id": 3054643,
+            "name": "Budapest"
+        },
+        {
+            "coord": {
+                "lon": 12.5655,
+                "lat": 55.6759
+            },
+            "sys": {
+                "country": "DK",
+                "timezone": 3600,
+                "sunrise": 1734507338,
+                "sunset": 1734532642
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "couvert",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 6.67,
+                "feels_like": 2.43,
+                "temp_min": 6.19,
+                "temp_max": 7.45,
+                "pressure": 1002,
+                "sea_level": 1002,
+                "grnd_level": 1001,
+                "humidity": 91
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 7.72,
+                "deg": 210
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1734527714,
+            "id": 2618425,
+            "name": "Copenhagen"
+        },
+        {
+            "coord": {
+                "lon": -6.2672,
+                "lat": 53.344
+            },
+            "sys": {
+                "country": "IE",
+                "timezone": 0,
+                "sunrise": 1734511003,
+                "sunset": 1734538020
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "nuageux",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 9.99,
+                "feels_like": 7.34,
+                "temp_min": 9.36,
+                "temp_max": 10.7,
+                "pressure": 1003,
+                "sea_level": 1003,
+                "grnd_level": 989,
+                "humidity": 86
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.66,
+                "deg": 260
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1734527847,
+            "id": 2964574,
+            "name": "Dublin"
+        },
+        {
+            "coord": {
+                "lon": 24.9355,
+                "lat": 60.1695
+            },
+            "sys": {
+                "country": "FI",
+                "timezone": 7200,
+                "sunrise": 1734506530,
+                "sunset": 1734527511
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "nuageux",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": -0.25,
+                "feels_like": -5.67,
+                "temp_min": -2.99,
+                "temp_max": 1.09,
+                "pressure": 1009,
+                "sea_level": 1009,
+                "grnd_level": 1006,
+                "humidity": 85
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.81,
+                "deg": 177
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1734527356,
+            "id": 658225,
+            "name": "Helsinki"
+        },
+        {
+            "coord": {
+                "lon": -9.1333,
+                "lat": 38.7167
+            },
+            "sys": {
+                "country": "PT",
+                "timezone": 0,
+                "sunrise": 1734508175,
+                "sunset": 1734542224
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "nuageux",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 15.82,
+                "feels_like": 15.52,
+                "temp_min": 15.41,
+                "temp_max": 17.3,
+                "pressure": 1029,
+                "sea_level": 1029,
+                "grnd_level": 1021,
+                "humidity": 79
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.14,
+                "deg": 160
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1734527380,
+            "id": 2267057,
+            "name": "Lisbon"
+        },
+        {
+            "coord": {
+                "lon": 14.5051,
+                "lat": 46.0511
+            },
+            "sys": {
+                "country": "SI",
+                "timezone": 3600,
+                "sunrise": 1734503978,
+                "sunset": 1734535071
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "ciel dégagé",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 9.42,
+                "feels_like": 8.09,
+                "temp_min": 7.99,
+                "temp_max": 10.75,
+                "pressure": 1025,
+                "sea_level": 1025,
+                "grnd_level": 973,
+                "humidity": 75
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.57,
+                "deg": 250
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1734527952,
+            "id": 3196359,
+            "name": "Ljubljana"
+        },
+        {
+            "coord": {
+                "lon": -3.7026,
+                "lat": 40.4165
+            },
+            "sys": {
+                "country": "ES",
+                "timezone": 3600,
+                "sunrise": 1734507180,
+                "sunset": 1734540612
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "ciel dégagé",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 10.87,
+                "feels_like": 9.58,
+                "temp_min": 9.51,
+                "temp_max": 11.79,
+                "pressure": 1031,
+                "sea_level": 1031,
+                "grnd_level": 955,
+                "humidity": 60
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 0.51,
+                "deg": 130
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1734527924,
+            "id": 3117735,
+            "name": "Madrid"
+        },
+        {
+            "coord": {
+                "lon": 2.3488,
+                "lat": 48.8534
+            },
+            "sys": {
+                "country": "FR",
+                "timezone": 3600,
+                "sunrise": 1734507590,
+                "sunset": 1734537296
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "couvert",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 12.24,
+                "feels_like": 11.9,
+                "temp_min": 11.32,
+                "temp_max": 12.92,
+                "pressure": 1018,
+                "sea_level": 1018,
+                "grnd_level": 1008,
+                "humidity": 91
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6.69,
+                "deg": 200
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1734527571,
+            "id": 2988507,
+            "name": "Paris"
+        },
+        {
+            "coord": {
+                "lon": 14.4208,
+                "lat": 50.088
+            },
+            "sys": {
+                "country": "CZ",
+                "timezone": 3600,
+                "sunrise": 1734505029,
+                "sunset": 1734534061
+            },
+            "weather": [
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "pluie modérée",
+                    "icon": "10d"
+                }
+            ],
+            "main": {
+                "temp": 8.85,
+                "feels_like": 5.72,
+                "temp_min": 7.73,
+                "temp_max": 9.55,
+                "pressure": 1019,
+                "sea_level": 1019,
+                "grnd_level": 984,
+                "humidity": 72
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6.17,
+                "deg": 250
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1734527899,
+            "id": 3067696,
+            "name": "Prague"
+        },
+        {
+            "coord": {
+                "lon": 24.1,
+                "lat": 56.95
+            },
+            "sys": {
+                "country": "LV",
+                "timezone": 7200,
+                "sunrise": 1734505100,
+                "sunset": 1734529341
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "ciel dégagé",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 0.75,
+                "feels_like": -3.44,
+                "temp_min": 0.49,
+                "temp_max": 1.02,
+                "pressure": 1012,
+                "sea_level": 1012,
+                "grnd_level": 1010,
+                "humidity": 89
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 4.12,
+                "deg": 170
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1734527353,
+            "id": 456172,
+            "name": "Riga"
+        },
+        {
+            "coord": {
+                "lon": 12.4839,
+                "lat": 41.8947
+            },
+            "sys": {
+                "country": "IT",
+                "timezone": 3600,
+                "sunrise": 1734503576,
+                "sunset": 1734536443
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "ciel dégagé",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 13.4,
+                "feels_like": 12.6,
+                "temp_min": 12.21,
+                "temp_max": 15.54,
+                "pressure": 1027,
+                "sea_level": 1027,
+                "grnd_level": 1019,
+                "humidity": 69
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.54,
+                "deg": 360
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1734527950,
+            "id": 3169070,
+            "name": "Rome"
+        },
+        {
+            "coord": {
+                "lon": 18.0649,
+                "lat": 59.3326
+            },
+            "sys": {
+                "country": "SE",
+                "timezone": 3600,
+                "sunrise": 1734507708,
+                "sunset": 1734529632
+            },
+            "weather": [
+                {
+                    "id": 300,
+                    "main": "Drizzle",
+                    "description": "bruine légère",
+                    "icon": "09d"
+                },
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "pluie modérée",
+                    "icon": "10d"
+                }
+            ],
+            "main": {
+                "temp": 3.21,
+                "feels_like": -1.45,
+                "temp_min": 2,
+                "temp_max": 3.92,
+                "pressure": 1000,
+                "sea_level": 1000,
+                "grnd_level": 995,
+                "humidity": 94
+            },
+            "visibility": 7000,
+            "wind": {
+                "speed": 6.17,
+                "deg": 130
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1734527741,
+            "id": 2673730,
+            "name": "Stockholm"
+        },
+        {
+            "coord": {
+                "lon": 24.7535,
+                "lat": 59.437
+            },
+            "sys": {
+                "country": "EE",
+                "timezone": 7200,
+                "sunrise": 1734506158,
+                "sunset": 1734527969
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "nuageux",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": -2.53,
+                "feels_like": -6.63,
+                "temp_min": -2.81,
+                "temp_max": -0.94,
+                "pressure": 1009,
+                "sea_level": 1009,
+                "grnd_level": 1006,
+                "humidity": 77
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.09,
+                "deg": 150
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1734527355,
+            "id": 588409,
+            "name": "Tallinn"
+        },
+        {
+            "coord": {
+                "lon": 16.3721,
+                "lat": 48.2085
+            },
+            "sys": {
+                "country": "AT",
+                "timezone": 3600,
+                "sunrise": 1734504055,
+                "sunset": 1734534097
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "couvert",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 9.25,
+                "feels_like": 9.25,
+                "temp_min": 7.52,
+                "temp_max": 11.12,
+                "pressure": 1023,
+                "sea_level": 1023,
+                "grnd_level": 995,
+                "humidity": 80
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 0.89,
+                "deg": 301
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1734527749,
+            "id": 2761369,
+            "name": "Vienna"
+        },
+        {
+            "coord": {
+                "lon": 25.2798,
+                "lat": 54.6892
+            },
+            "sys": {
+                "country": "LT",
+                "timezone": 7200,
+                "sunrise": 1734503906,
+                "sunset": 1734529970
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "nuageux",
+                    "icon": "04d"
+                }
+            ],
+            "main": {
+                "temp": 0.56,
+                "feels_like": -4,
+                "temp_min": 0.4,
+                "temp_max": 0.64,
+                "pressure": 1016,
+                "sea_level": 1016,
+                "grnd_level": 996,
+                "humidity": 93
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 4.63,
+                "deg": 200
+            },
+            "clouds": {
+                "all": 75
+            },
+            "dt": 1734527355,
+            "id": 593116,
+            "name": "Vilnius"
+        },
+        {
+            "coord": {
+                "lon": 21.0118,
+                "lat": 52.2298
+            },
+            "sys": {
+                "country": "PL",
+                "timezone": 3600,
+                "sunrise": 1734504086,
+                "sunset": 1734531838
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "ciel dégagé",
+                    "icon": "01d"
+                }
+            ],
+            "main": {
+                "temp": 8.78,
+                "feels_like": 6.99,
+                "temp_min": 7.9,
+                "temp_max": 9.8,
+                "pressure": 1017,
+                "sea_level": 1017,
+                "grnd_level": 1005,
+                "humidity": 83
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.09,
+                "deg": 180
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1734527357,
+            "id": 756135,
+            "name": "Warsaw"
+        }
+    ]
+}
